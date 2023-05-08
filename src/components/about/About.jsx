@@ -12,18 +12,38 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            I'm in the second year of engineering. I intend to create a website
-            with the MERN stack. I practise competitive programming in C++.
+            Hello! I'm OM, a second-year IT student with a strong passion for
+            creating engaging and intuitive digital experiences. I am
+            enthusiastic about web development and have been honing my skills in
+            frontend and backend technologies. Alongside web development, I have
+            a keen interest in data structures and algorithms, as I believe they
+            form the foundation for building efficient and scalable
+            applications.
+          </p>
+          <p className="about__description">
+            I am motivated to connect with people who have similar interests,
+            whether it's collaborating on projects, discussing the latest
+            technologies, or exchanging ideas. If you are looking for a
+            dedicated and motivated web developer with a strong understanding of
+            data structures and algorithms, I would love to connect with you.
+            Let's collaborate and bring impactful ideas to life while advancing
+            our skills and knowledge in the process.
+          </p>
+          <p className="about__description">
+            Thank you for taking the time to learn a bit about me. I am excited
+            about the possibilities ahead and look forward to connecting with
+            fellow web developers and software engineers.
           </p>
           <a
             download=""
             href="https://drive.google.com/file/d/1eQQSS-GrHP7ZI-TZtcBTVYtjuL0JX2Pr/view?usp=share_link"
             className="button button--flex"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Download CV
             <svg
-              class="button__icon"
+              className="button__icon"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="24"
