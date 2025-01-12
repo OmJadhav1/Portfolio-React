@@ -19,7 +19,7 @@ const Social = () => {
         <FiGithub />
       </a>
       <a
-        href="https://www.linkedin.com/in/om-jadhav-23b4a822b"
+        href="https://www.linkedin.com/in/om-jadhav"
         className="home__social-icon"
         target="_blank"
       >

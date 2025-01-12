@@ -12,7 +12,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Hello! I'm OM, a second-year IT student with a strong passion for
+            Hello! I'm OM, a Last-year IT student with a strong passion for
             creating engaging and intuitive digital experiences. I am
             enthusiastic about web development and have been honing my skills in
             frontend and backend technologies. Alongside web development, I have

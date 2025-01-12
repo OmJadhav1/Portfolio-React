@@ -31,7 +31,7 @@ const Qualification = () => {
             <HiOutlineAcademicCap className="qualification__icon" />
             Education
           </div>
-          {/* <div
+          <div
             className={
               toggleState === 2
                 ? "qualification__button button--flex qualification__active"
@@ -41,7 +41,7 @@ const Qualification = () => {
           >
             <HiOutlineBriefcase className="qualification__icon" />
             Experience
-          </div> */}
+          </div>
         </div>
 
         <div className="qualification__sections">
@@ -98,7 +98,7 @@ const Qualification = () => {
               </div>
             </div> */}
           </div>
-          {/* <div
+          <div
             className={
               toggleState === 2
                 ? "qualification__content-active"
@@ -107,11 +107,11 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Tech Support</h3>
-                <span className="qualification__subtitle">PC Outlet</span>
+                <h3 className="qualification__title">Full Stack Developer</h3>
+                <span className="qualification__subtitle">AXY</span>
                 <div className="qualification__calendar">
                   <HiOutlineCalendar className="qualification__calendar-icon" />
-                  2012-2015
+                  2024-2025
                 </div>
               </div>
               <div>
@@ -119,7 +119,7 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
               <div>
                 <span className="qualification__rounder"></span>
@@ -164,8 +164,8 @@ const Qualification = () => {
                   2019-Present
                 </div>
               </div>
-            </div>
-          </div> */}
+            </div> */}
+          </div>
         </div>
       </div>
     </section>
